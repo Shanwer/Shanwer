@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on... mostly learning.(
-- 🌱 I’m currently learning C++, Rust and C++, quite a lot for a sophister, isn't it?( 
+- 🌱 I’m currently learning OS, Rust and C++, quite a lot for a sophister, isn't it?( 
 - 📫 How to reach me:  
   -   QQ: 839456151
   -   Blog: https://blog.shanwer.top
