@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Recently Activities  
+## Activities since Aug, 2023  
 
-![Shanwer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shanwer&range=all_time&layout=compact)
+![Shanwer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shanwer&range=all_time&layout=compact&hide=markdown,text,GitExclude file,IDEA_Module,TOML,Bash,Other,ActionScript,Other)
