@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ## Activities since Aug, 2023  
 
-![Shanwer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shanwer&bg_color=242930&range=all_time&layout=compact&text_color=e6edf3&border_color=0000&hide=markdown,text,GitExclude%20file,IDEA_Module,TOML,Bash,Other,ActionScript%203,PowerShell,ObjectiveC,Objective-C,go.mod,GitIgnore%20file,textmate,Properties,Java%20Properties,PythonStub,HTTP%20Request,JSON,YAML,XML)
+![Shanwer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shanwer&bg_color=242930&range=all_time&layout=compact&text_color=e6edf3&border_color=0000&hide=markdown,text,GitExclude%20file,IDEA_Module,TOML,Bash,Other,ActionScript%203,PowerShell,ObjectiveC,Objective-C,go.mod,GitIgnore%20file,textmate,Properties,Java%20Properties,PythonStub,HTTP%20Request,JSON,YAML,XML,SVG,Shell%20Script,Gradle,Groovy,CMAKE)
