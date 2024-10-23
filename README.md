@@ -1,11 +1,8 @@
-### Hi there 👋
-- 🔭 I’m currently working on springboot web application by remote.(
-- 🌱 I’m currently learning Java, network and operating system.
+### Welcome! Here is Shanwer🌟
 - 📫 How to reach me:  
   -   QQ: 839456151
-  -   Blog: https://blog.shanwer.top
-- ⚡ Fun fact: Do you know I am also a sensei teaching in Kivotos? I run a minecraft server as well.  
-
+  -   Blog: https://blog.shanwer.top  
+I have no ideas what to write, so you just see this simple page(
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shanwer&show_icons=true&icon_color=57cc8a&text_color=e6edf3&bg_color=242930&hide_title=true&border_color=0000&count_private=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanwer&layout=compact&border_color=0000&text_color=e6edf3&bg_color=242930"/>
 
 
