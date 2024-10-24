@@ -2,7 +2,7 @@
 - 📫 How to reach me:  
   -   QQ: 839456151
   -   Blog: https://blog.shanwer.top  
-I have no ideas what to write, so you just see this simple page(
+I have no ideas what to write, so you just see this simple page(  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shanwer&show_icons=true&icon_color=57cc8a&text_color=e6edf3&bg_color=242930&hide_title=true&border_color=0000&count_private=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanwer&layout=compact&border_color=0000&text_color=e6edf3&bg_color=242930"/>
 
 
