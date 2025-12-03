@@ -4,7 +4,7 @@
   -   Blog: https://blog.shanwer.top  
 I have no ideas what to write, so you just see this simple page(  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shanwer&show_icons=true&icon_color=57cc8a&text_color=e6edf3&bg_color=242930&hide_title=true&border_color=0000&count_private=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanwer&layout=compact&border_color=0000&text_color=e6edf3&bg_color=242930"/>
+<img align="center" src="https://self-github-readme-stats-4eie1q4lr-shanwers-projects.vercel.app/api?username=Shanwer&show_icons=true&icon_color=57cc8a&text_color=e6edf3&bg_color=242930&hide_title=true&border_color=0000&count_private=true"/> | <img align="center" src="https://self-github-readme-stats-4eie1q4lr-shanwers-projects.vercel.app/api/top-langs/?username=Shanwer&layout=compact&border_color=0000&text_color=e6edf3&bg_color=242930"/>
 
 
 <!--
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ## Activities since Aug, 2023  
 
-![Shanwer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shanwer&bg_color=242930&range=all_time&layout=compact&text_color=e6edf3&border_color=0000&hide=markdown,text,GitExclude%20file,IDEA_Module,TOML,Bash,Other,ActionScript%203,PowerShell,ObjectiveC,Objective-C,go.mod,GitIgnore%20file,textmate,Properties,Java%20Properties,PythonStub,HTTP%20Request,JSON,YAML,XML,SVG,Shell%20Script,Gradle,Groovy,CMAKE,Velocity,yarn.lock,.env%20file,Makefile,JavaScript%20Testing%20Snapshot,TSConfig,PHP,Batchfile,SCSS,CLASS,Image%20(svg),desktop)
+![Shanwer's wakatime stats](https://self-github-readme-stats-4eie1q4lr-shanwers-projects.vercel.app/api/wakatime?username=Shanwer&bg_color=242930&range=all_time&layout=compact&text_color=e6edf3&border_color=0000&hide=markdown,text,GitExclude%20file,IDEA_Module,TOML,Bash,Other,ActionScript%203,PowerShell,ObjectiveC,Objective-C,go.mod,GitIgnore%20file,textmate,Properties,Java%20Properties,PythonStub,HTTP%20Request,JSON,YAML,XML,SVG,Shell%20Script,Gradle,Groovy,CMAKE,Velocity,yarn.lock,.env%20file,Makefile,JavaScript%20Testing%20Snapshot,TSConfig,PHP,Batchfile,SCSS,CLASS,Image%20(svg),desktop)
